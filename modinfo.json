@@ -1,0 +1,20 @@
+{
+  "author": "wondible",
+  "build": "71378",
+  "category": ["system-editor", "ui", "biome"],
+  "context": "client",
+  "date": "2014/08/28",
+  "description": "Enable the special Foundation lava and ice biome in the system editor",
+  "display_name": "Ice Boss Biome",
+  "forum": null,
+  "identifier": "com.wondible.pa.ice_boss_biome",
+  "priority": 100,
+  "scenes": {
+    "system_editor": [
+      "coui://ui/mods/ice_boss_biome/ice_boss_biome.js"
+    ]
+  },
+  "signature": "not yet implemented",
+  "version": "0.1.0"
+}
+

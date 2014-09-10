@@ -1,12 +1,12 @@
 {
   "author": "wondible",
-  "build": "71378",
+  "build": "71729",
   "category": ["system-editor", "ui", "biome"],
   "context": "client",
-  "date": "2014/08/28",
+  "date": "2014/09/10",
   "description": "Enable the special Foundation lava and ice biome in the system editor",
   "display_name": "Ice Boss Biome",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/rel-ice-boss-biome.64026/",
   "identifier": "com.wondible.pa.ice_boss_biome",
   "priority": 100,
   "scenes": {
@@ -15,6 +15,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
 
